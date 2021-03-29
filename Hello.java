@@ -1,4 +1,4 @@
-Class Advance
+Class Hello
  {
   public static void main (string args[])
    {
