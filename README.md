@@ -1,2 +1,1 @@
-# java
-java
+This is an Java project 
